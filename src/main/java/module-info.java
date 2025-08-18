@@ -1,0 +1,7 @@
+module com.batalha {
+    requires javafx.controls;
+    requires javafx.fxml;
+
+    opens com.batalha to javafx.fxml;
+    exports com.batalha;
+}
