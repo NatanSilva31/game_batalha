@@ -27,10 +27,10 @@ public class Controller implements Initializable {
 
     // --- Métodos de Ação ---
     public void j1HitJ2() { j1.atacar(j2); updateView(); }
-    public void j1HealJ2() { j1.curar(j2); updateView(); }
+    public void j1HealJ2() { j1.curar(j1); updateView(); }
     public void j1AntidotoJ2() { j1.darAntidoto(j2); updateView(); }
     public void j2HitJ1() { j2.atacar(j1); updateView(); }
-    public void j2HealJ1() { j2.curar(j1); updateView(); }
+    public void j2HealJ1() { j2.curar(j2); updateView(); }
     public void j2AntidotoJ1() { j2.darAntidoto(j1); updateView(); }
 
     @Override
