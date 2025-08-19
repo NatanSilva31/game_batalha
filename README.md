@@ -29,3 +29,11 @@ O usuário pode controlar personagens, executar ataques e acompanhar o desenrola
    App.java
 
 ## 🖼️ Demonstração
+
+Tela principal da batalha:
+
+![Batalha](https://github.com/NatanSilva31/game_batalha/blob/8b3353f6b3536935dbaeb6ecc86caf68000285c2/screenshot/tela_batalha.png)
+
+Sistema de vitória:
+
+![Vitória](https://github.com/NatanSilva31/game_batalha/blob/8b3353f6b3536935dbaeb6ecc86caf68000285c2/screenshot/vencedor_batalha.png)
